@@ -1,9 +1,6 @@
 ## Hi there 👋
 
 
-**based-afk/based-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 - 🎓  Computer Science student passionate about building real-world software systems
 - 🔭  I’m currently working on LifeOS — a personal productivity dashboard
 - 🌱  Learning Full-Stack Development and System Design
